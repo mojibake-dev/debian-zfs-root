@@ -582,4 +582,4 @@ but as usual what worked was a stack overflow article
 
 > For Ubuntu, at least newer versions, you could use the commands `lsinitramfs <file>` to inspect and `unmkinitramfs <file> <target directory>` to extract.
 
-![initramfs image](https://github.com/mojibake-dev/debian-zfs-root/blob/main/images/initram.png)]
+![initramfs image](https://github.com/mojibake-dev/debian-zfs-root/blob/main/images/initram.png)
